@@ -1,6 +1,6 @@
 //
 //  DownloadManager.swift
-//  SWImagecache
+//  RvDownloadManager
 //
 //  Created by Ravi Vora on 29/07/16.
 //  Copyright © 2016 Ravi Vora. All rights reserved.

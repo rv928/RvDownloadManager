@@ -1,9 +1,9 @@
 //
 //  TagIDConstant.swift
-//  CTMS
+//  RvDownloadManager
 //
 //  Created by Ravi Vora on 19/08/16.
-//  Copyright © 2016 Softweb Solutions. All rights reserved.
+//  Copyright © 2016 Ravi Vora. All rights reserved.
 //
 
 import Foundation

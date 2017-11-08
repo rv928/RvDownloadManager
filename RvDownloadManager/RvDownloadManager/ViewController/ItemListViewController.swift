@@ -3,7 +3,7 @@
 //  RvDownloadManager
 //
 //  Created by Ravi Vora on 08/11/17.
-//  Copyright © 2017 Softweb Solutions. All rights reserved.
+//  Copyright © 2017 Ravi Vora. All rights reserved.
 //
 
 import UIKit
